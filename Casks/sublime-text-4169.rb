@@ -1,4 +1,4 @@
-cask "sublime-text" do
+cask "sublime-text-4169" do
   # NOTE: The first digit of the build number is the major version.
   version "4169"
   sha256 "e87c547c53f566b17a35a24b23c75896d503084fdfc84e472de4c3ef34e070a6"
