@@ -1,4 +1,4 @@
-# Rahim Versions
+# Personal Homebrew Versions
 
 ## How do I install these formulae?
 
