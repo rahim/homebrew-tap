@@ -1,15 +1,15 @@
-# Personal Homebrew Versions
+# Personal Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install rahim/versions/<formula>`
+`brew install rahim/tap/<formula>`
 
-Or `brew tap rahim/versions` and then `brew install <formula>`.
+Or `brew tap rahim/tap` and then `brew install <formula>`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
-tap "rahim/versions"
+tap "rahim/tap"
 brew "<formula>"
 ```
 
